@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Educator JS Codespace Template",
   "source": "src/index.html",
-  "homepage": "https://github-timmtet.github.io/github_repo",
+  "homepage": "https://timmtet.github.io/github_repo",
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
