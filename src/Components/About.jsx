@@ -45,7 +45,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "A data scientist with 3 years of experience, bringing expertise in data gathering, cleaning, and analysis to extract valuable insights. Proficient in applying statistical, algebraic, and various analytical techniques to generate meaningful insights from data. Possesses a high level of organization, motivation, and diligence, with a significant background in data analysis. Committed to delivering impactful results through data-driven approaches";
+  "A data scientist with 3 years of experience bringing expertise in data gathering, cleaning, and analysis to extract valuable insights. Proficient in applying statistical, algebraic, and various analytical techniques to generate meaningful insights from data. Possesses a high level of organization, motivation, and diligence, with a significant background in data analysis. Committed to delivering impactful results through data-driven approaches";
 
 const About = () => {
   return (
