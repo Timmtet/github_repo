@@ -27198,7 +27198,7 @@ const imageAltText = "purple and blue abstract background";
  * Use this to give more information about what you are passionate about,
  * how you best work, or even a quote. This will help someone learn more
  * about you on a professional level.
- */ const detailOrQuote = "A data scientist with 3 years of experience, bringing expertise in data gathering, cleaning, and analysis to extract valuable insights. Proficient in applying statistical, algebraic, and various analytical techniques to generate meaningful insights from data. Possesses a high level of organization, motivation, and diligence, with a significant background in data analysis. Committed to delivering impactful results through data-driven approaches";
+ */ const detailOrQuote = "A data scientist with 3 years of experience bringing expertise in data gathering, cleaning, and analysis to extract valuable insights. Proficient in applying statistical, algebraic, and various analytical techniques to generate meaningful insights from data. Possesses a high level of organization, motivation, and diligence, with a significant background in data analysis. Committed to delivering impactful results through data-driven approaches";
 const About = ()=>{
     return /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("section", {
         className: "padding",
